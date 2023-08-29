@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-url_pdf: files/working-paper.pdf
+url_pdf: files/InformationInTechRaces_2023.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -32,7 +32,7 @@ featured: false
 
 links:
 
-url_pdf: files/job-market-paper.pdf
+url_pdf: files/EconomicImpactsofAIAugmentedRD_2023.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
