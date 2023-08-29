@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a political economist currently working as a Ph.D. student in economics at UCLA. I am interested in the governance implications of new  technologies, especially computing and AI. I do this work at the intersection of international relations, growth theory, and industrial organization. I am a member of the MIT FutureTech Project and a 2023 Global Priorities Fellow at Oxford University. I am also passionate about ending global poverty, slowing climate change, and ending animal suffering. To this end, I donate at least 10\% of my income to global development or related issues; offset my annual carbon emissions; and eat almost exclusively vegan.
+I am a political economist currently working as a Ph.D. student in economics at UCLA. I am interested in the governance implications of new  technologies, especially computing and AI. I do this work at the intersection of international relations, growth theory, and industrial organization. I am a member of the MIT FutureTech Project and a 2023 Global Priorities Fellow at Oxford University.
