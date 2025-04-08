@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student in Economics
+role: Ph.D. Candidate in Economics
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a political economist currently working as a Ph.D. student in economics at UCLA. I am interested in the governance implications of new  technologies, especially computing and AI.
+bio: I am a fourth-year Ph.D. candidate in economics at UCLA. My research interests are in industrial organization and theory, with a focus on productivity, innovation, and computing.
 
 interests:
-- Economics of innovation
-- International relations
-- Economic theory
 - Industrial organization
+- Political economy
+- Economic theory
+- Productivity and innovation
  
 
 education:
@@ -45,9 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:niemery@ucla.edu"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/nicholaskemery
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=RTJwDacAAAAJ&hl=en&oi=ao
@@ -71,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a political economist currently working as a Ph.D. student in economics at UCLA. I am interested in the governance implications of new  technologies, especially computing and AI. I do this work at the intersection of international relations, growth theory, and industrial organization. I am a member of the MIT FutureTech Project and a 2023 Global Priorities Fellow at Oxford University.
+I am a fourth-year Ph.D. candidate in economics at UCLA, advised by John Asker, Hugo Hopenhayn, Simon Board, and Will Rafey. My research interests are in industrial organization and theory, with a focus on productivity, innovation, and computing.
