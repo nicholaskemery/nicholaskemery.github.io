@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robert Trager | Nicholas Emery-Xu</title>
-    <link>https://main--nicholaskemery-personal.netlify.app/author/robert-trager/</link>
-      <atom:link href="https://main--nicholaskemery-personal.netlify.app/author/robert-trager/index.xml" rel="self" type="application/rss+xml" />
-    <description>Robert Trager</description>
+    <title>Richard Jordan | Nicholas Emery-Xu</title>
+    <link>https://main--nicholaskemery-personal.netlify.app/author/richard-jordan/</link>
+      <atom:link href="https://main--nicholaskemery-personal.netlify.app/author/richard-jordan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard Jordan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://main--nicholaskemery-personal.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Robert Trager</title>
-      <link>https://main--nicholaskemery-personal.netlify.app/author/robert-trager/</link>
+      <title>Richard Jordan</title>
+      <link>https://main--nicholaskemery-personal.netlify.app/author/richard-jordan/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://main--nicholaskemery-personal.netlify.app/publication/internationalgovernanceai_2024/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://main--nicholaskemery-personal.netlify.app/publication/internationalgovernanceai_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainty, information, and risk in international technology races</title>
-      <link>https://main--nicholaskemery-personal.netlify.app/publication/informationintechraces_2023/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://main--nicholaskemery-personal.netlify.app/publication/informationintechraces_2023/</guid>
       <description></description>
     </item>
     
