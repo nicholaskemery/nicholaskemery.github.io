@@ -10,7 +10,7 @@ date = 2020-08-09
 title = "Teaching"
 
 # Order that this section will appear in.
-weight = 70
+weight = 120
 
 +++
 

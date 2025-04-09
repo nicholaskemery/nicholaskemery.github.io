@@ -4,7 +4,6 @@ authors:
 - admin
 - Jackson Mejia
 date: "2025-04-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.respol.2024.105037"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-09-01T00:00:00Z"
