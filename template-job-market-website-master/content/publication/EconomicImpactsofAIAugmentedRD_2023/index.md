@@ -4,23 +4,23 @@ authors:
 - Tamay Besiroglu
 - admin
 - Neil Thompson
-date: "2022-12-07T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2212.08198"
+date: "2024-12-07T00:00:00Z"
+doi: "https://doi.org/10.1016/j.respol.2024.105037"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under review"
+publication: "Research Policy 53 (7)"
 publication_short: ""
 
-abstract: Since its emergence around 2010, deep learning has rapidly become the most important technique in Artificial Intelligence (AI), producing an array of scientific firsts in areas as diverse as protein folding, drug discovery, integrated chip design, and weather prediction. As more scientists and engineers adopt deep learning, it is important to consider what effect widespread deployment would have on scientific progress and, ultimately, economic growth. We assess this impact by estimating the idea production function for AI in two computer vision tasks that are considered key test-beds for deep learning and show that AI idea production is notably more capital-intensive than traditional R&D. Because increasing the capital-intensity of R&D accelerates the investments that make scientists and engineers more productive, our work suggests that AI-augmented R&D has the potential to speed up technological change and economic growth.
+abstract: Since its emergence around 2010, deep learning has rapidly become the most important technique in Artificial Intelligence (AI), producing an array of scientific firsts in areas as diverse as protein folding, drug discovery, integrated chip design, and weather prediction. As scientists and engineers adopt deep learning, it is important to consider what effect widespread deployment would have on scientific progress and, ultimately, economic growth. We assess this impact by estimating the idea production function for AI in two computer vision tasks that are considered key test-beds for deep learning and show that AI idea production is notably more capital-intensive than traditional R&D. Because increasing the capital-intensity of R&D accelerates the investments that make scientists and engineers more productive, our work suggests that AI-augmented R&D has the potential to speed up technological change and economic growth.
 
 
 # Summary. An optional shortened abstract.

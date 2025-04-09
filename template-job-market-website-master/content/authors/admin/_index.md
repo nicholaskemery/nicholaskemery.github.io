@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year Ph.D. candidate in economics at UCLA, advised by John Asker, Hugo Hopenhayn, Simon Board, and Will Rafey. My research interests are in industrial organization and theory, with a focus on productivity, innovation, and computing.
+I am a fourth-year Ph.D. candidate in economics at UCLA, advised by John Asker, Hugo Hopenhayn, Simon Board, and Will Rafey. My research interests are in industrial organization and theory, with a focus on productivity, innovation, and computing. I am an affiliate at MIT FutureTech and was a 2023 Global Priorities Fellow at te Global Priorities Institute.
