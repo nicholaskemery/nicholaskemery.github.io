@@ -5,7 +5,7 @@ authors:
 - Richard Jordan
 - Robert Trager
 date: "2024-09-17T00:00:00Z"
-doi: "https://link.springer.com/article/10.1007/s00146-024-02050-7"
+doi: "https://doi.org/10.1007/s00146-024-02050-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-09-01T00:00:00Z"
