@@ -5,7 +5,7 @@
     <link>https://main--nicholaskemery-personal.netlify.app/publication-type/6/</link>
       <atom:link href="https://main--nicholaskemery-personal.netlify.app/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://main--nicholaskemery-personal.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>6</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Dynamic frictions and firm productivity: Evidence from cloud computing</title>
-      <link>https://main--nicholaskemery-personal.netlify.app/publication/iaas_2025/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://main--nicholaskemery-personal.netlify.app/publication/iaas_2025/</guid>
+      <title>Computing power, productivity, and misallocation</title>
+      <link>https://main--nicholaskemery-personal.netlify.app/publication/intelmoore_2026/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://main--nicholaskemery-personal.netlify.app/publication/intelmoore_2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of Moore’s law on productivity slowdown and the labor share</title>
+      <link>https://main--nicholaskemery-personal.netlify.app/publication/mooreslawproductivity_2025/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://main--nicholaskemery-personal.netlify.app/publication/mooreslawproductivity_2025/</guid>
       <description></description>
     </item>
     
