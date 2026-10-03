@@ -1,10 +1,12 @@
 ---
-title: "The impact of Moore’s law on productivity slowdown and the labor share"
+title: "The offense-defense balance and the costs of anarchy: Welfare is U-shaped under offensive advantage"
 authors:
+- R. Daniel Bressler
 - admin
-- Neil Thompson
-date: "2026-10-01T00:00:00Z"
-# doi: ""
+- Robert Trager
+- Allan Dafoe
+date: "2026-08-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-09-01T00:00:00Z"
@@ -13,17 +15,17 @@ publishDate: "2017-09-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Census Bureau Project #2590."
+publication: "Revise and resubmit at _International Studies Quarterly_."
 publication_short: ""
 
-abstract: Why have the impacts of ICT to US productivity growth declined since the 1990s? Using data from the Annual Survey of Manufacturers and Census of Manufactures, we plan to estimate production functions with IT-augmenting productivity in order to decompose effects into 1) computing technology changes and 2) non-ICT bottlenecks.
+abstract: A large literature has argued that offensive advantage makes states worse off because it can induce a security dilemma, preemption, costly conflict, and arms races. We argue instead that state welfare is U-shaped under offensive advantage. We assess the offense-defense balance by considering a model where two states choose arms levels and decide whether to attack. High defensive advantage is first-best because the arms burdens required to deter attacks and maintain peace are low. High offensive advantage is comparatively worse because war is likely, but war tends to be smaller in scale, quicker, and less costly. Intermediate offensive advantage is worst because high arms burdens are required to deter attacks while wars, when they occur, are larger, longer, and more destructive. We discuss historical examples of this phenomenon, including the Warring States periods in China and Japan, the Imjin War, the Federalist Papers, Napoleonic Europe, and the World Wars.
 
 
 # Summary. An optional shortened abstract.
-# summary: We study the impact of Moore’s law on productivity growth and changes in the labor share. Motivated by the fact that the ratio of computation to labor in production is rising, while both the labor and computational shares are declining, we develop a novel production function with both labor- and computation-augmenting productivity terms. Using this setup, we estimate a production function in order to quantify the effects of computation and other IT inputs on productivity growth and the fall in the labor share.
+#summary: 
 
 tags:
 - Source Themes

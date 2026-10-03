@@ -24,7 +24,7 @@ abstract: Since its emergence around 2010, deep learning has rapidly become the 
 
 
 # Summary. An optional shortened abstract.
-summary: We assess the impact of deep learning on the economy by estimating the idea production function for AI in two computer vision tasks that are considered key test-beds for deep learning and show that AI idea production is notably more capital-intensive than traditional R&D and suggests that AI-augmented R&D has the potential to speed up technological change and economic growth.
+#summary: We assess the impact of deep learning on the economy by estimating the idea production function for AI in two computer vision tasks that are considered key test-beds for deep learning and show that AI idea production is notably more capital-intensive than traditional R&D and suggests that AI-augmented R&D has the potential to speed up technological change and economic growth.
 
 tags:
 - Source Themes

@@ -1,10 +1,9 @@
 ---
-title: "The impact of Moore’s law on productivity slowdown and the labor share"
+title: "Artificial intelligence, productivity, and the labor share"
 authors:
 - admin
-- Neil Thompson
 date: "2026-10-01T00:00:00Z"
-# doi: ""
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-09-01T00:00:00Z"
@@ -13,17 +12,16 @@ publishDate: "2017-09-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Census Bureau Project #2590."
+publication: "Draft coming soon!"
 publication_short: ""
 
-abstract: Why have the impacts of ICT to US productivity growth declined since the 1990s? Using data from the Annual Survey of Manufacturers and Census of Manufactures, we plan to estimate production functions with IT-augmenting productivity in order to decompose effects into 1) computing technology changes and 2) non-ICT bottlenecks.
-
+abstract: What is the impact of artificial intelligence adoption on firm productivity and labor automation? Using data from Spanish manufacturing firms during 2018-2024, I find that adoption of deep learning increases labor-augmenting productivity by 15.5\%-17.2\%, depending on sector, with no effects on Hicks-neutral productivity. This is roughly 3-5 times that of robots, which increase labor productivity by 2.8\%-6.6\%. Preliminary results suggest that AI is skill-biased, unlike robotics.
 
 # Summary. An optional shortened abstract.
-# summary: We study the impact of Moore’s law on productivity growth and changes in the labor share. Motivated by the fact that the ratio of computation to labor in production is rising, while both the labor and computational shares are declining, we develop a novel production function with both labor- and computation-augmenting productivity terms. Using this setup, we estimate a production function in order to quantify the effects of computation and other IT inputs on productivity growth and the fall in the labor share.
+#summary: 
 
 tags:
 - Source Themes
@@ -31,7 +29,7 @@ featured: false
 
 links:
 
-url_pdf: ''
+url_pdf: files/EconomicImpactsofAIAugmentedRD_2023.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

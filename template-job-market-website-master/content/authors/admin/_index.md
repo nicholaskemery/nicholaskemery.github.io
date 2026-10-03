@@ -18,14 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth-year Ph.D. candidate in economics at UCLA. My research interests are in industrial organization and theory, with a focus on productivity, innovation, and computing.
+# bio: I am a fifth-year Ph.D. candidate in economics at UCLA. My research interests primarily lie in empirical industrial organization, with additional interests in political economy and theory.
 
 interests:
-- Industrial organization
+- Empirical industrial organization
+- Productivity
+- Digital economics and economics of AI
 - Political economy
-- Economic theory
-- Productivity and innovation
- 
 
 education:
   courses:
@@ -68,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year Ph.D. candidate in economics at UCLA advised by John Asker, Hugo Hopenhayn, Simon Board, and Will Rafey. My research interests are in industrial organization and theory, with a focus on productivity and innovation. I have a particular interest in the computing and artificial intelligence industries. I am an affiliate at MIT FutureTech and was a 2022-2023 Global Priorities Fellow at the Global Priorities Institute.
+I am a sixth-year Ph.D. candidate in economics at UCLA. I do research in empirical industrial organization, focusing on digital economics and the economics of AI, with additional interests in political economy and economic theory. **I am on the 2026-2027 academic job market.**

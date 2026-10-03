@@ -14,7 +14,7 @@ publishDate: "2017-09-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_AI & Society_"
@@ -24,7 +24,7 @@ abstract: "New technologies with military applications may demand new modes of g
 
 
 # Summary. An optional shortened abstract.
-summary: "New technologies with military applications may demand new modes of governance. In this article, we develop a taxonomy of technology governance forms, outline their strengths, and red-team their weaknesses. In particular, we consider the challenges and opportunities posed by advancing artificial intelligence, which is likely to have substantial dual-use properties. We conclude that it is too soon to tell whether a non-proliferation regime, a verification-based regime, or an International Monopoly is most feasible for governing AI. Nonetheless, a variety of policies would yield a high return across all three scenarios, and we conclude by identifying some of these steps that could be taken today."
+# summary: "New technologies with military applications may demand new modes of governance. In this article, we develop a taxonomy of technology governance forms, outline their strengths, and red-team their weaknesses. In particular, we consider the challenges and opportunities posed by advancing artificial intelligence, which is likely to have substantial dual-use properties. We conclude that it is too soon to tell whether a non-proliferation regime, a verification-based regime, or an International Monopoly is most feasible for governing AI. Nonetheless, a variety of policies would yield a high return across all three scenarios, and we conclude by identifying some of these steps that could be taken today."
 
 tags:
 - Source Themes

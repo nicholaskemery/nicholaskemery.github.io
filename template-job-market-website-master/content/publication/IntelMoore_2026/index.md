@@ -1,5 +1,5 @@
 ---
-title: "The impact of Moore’s law on productivity slowdown and the labor share"
+title: "Computing power, productivity, and misallocation"
 authors:
 - admin
 - Neil Thompson
@@ -16,14 +16,13 @@ publishDate: "2017-09-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Census Bureau Project #2590."
+publication: ''
 publication_short: ""
 
-abstract: Why have the impacts of ICT to US productivity growth declined since the 1990s? Using data from the Annual Survey of Manufacturers and Census of Manufactures, we plan to estimate production functions with IT-augmenting productivity in order to decompose effects into 1) computing technology changes and 2) non-ICT bottlenecks.
-
+abstract: Do workers benefit from improved computer processors? Using anonymized trace data from over 1 million users, we study the impact of more powerful CPUs on task performance, quantifying resulting speed gains and changes in misallocated resources. We are currently analyzing software and creative tasks.
 
 # Summary. An optional shortened abstract.
-# summary: We study the impact of Moore’s law on productivity growth and changes in the labor share. Motivated by the fact that the ratio of computation to labor in production is rising, while both the labor and computational shares are declining, we develop a novel production function with both labor- and computation-augmenting productivity terms. Using this setup, we estimate a production function in order to quantify the effects of computation and other IT inputs on productivity growth and the fall in the labor share.
+# summary:
 
 tags:
 - Source Themes
