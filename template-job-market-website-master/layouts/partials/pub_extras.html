@@ -1,0 +1,25 @@
+{{/* Optional front-matter fields on publications: awards, press, conferences (shown in that order).
+     awards / conferences: a string (Markdown allowed, so links work).
+     press: a list; each item is either a plain string or  {name: "...", url: "..."}  */}}
+{{ $p := .Params }}
+{{ if or $p.awards $p.press $p.conferences }}
+<div class="pub-extras" style="margin: 0.5rem 0 1rem;">
+  {{ with $p.awards }}
+  <p class="mb-1"><strong>Awards:</strong> {{ . | markdownify }}</p>
+  {{ end }}
+  {{ with $p.press }}
+  <p class="mb-1"><strong>Press:</strong>
+    {{- range $i, $e := . }}{{ if $i }}; {{ else }} {{ end -}}
+      {{- if reflect.IsMap $e -}}
+        {{- if $e.url -}}<a href="{{ $e.url }}" target="_blank" rel="noopener">{{ $e.name }}</a>{{- else -}}{{ $e.name }}{{- end -}}
+      {{- else -}}
+        {{- $e | markdownify -}}
+      {{- end -}}
+    {{- end }}
+  </p>
+  {{ end }}
+  {{ with $p.conferences }}
+  <p class="mb-1"><strong>Conferences:</strong> {{ . | markdownify }}</p>
+  {{ end }}
+</div>
+{{ end }}

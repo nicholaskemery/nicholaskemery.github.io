@@ -22,6 +22,16 @@ publication_short: ""
 
 abstract: Since its emergence around 2010, deep learning has rapidly become the most important technique in Artificial Intelligence (AI), producing an array of scientific firsts in areas as diverse as protein folding, drug discovery, integrated chip design, and weather prediction. As scientists and engineers adopt deep learning, it is important to consider what effect widespread deployment would have on scientific progress and, ultimately, economic growth. We assess this impact by estimating the idea production function for AI in two computer vision tasks that are considered key test-beds for deep learning and show that AI idea production is notably more capital-intensive than traditional R&D. Because increasing the capital-intensity of R&D accelerates the investments that make scientists and engineers more productive, our work suggests that AI-augmented R&D has the potential to speed up technological change and economic growth.
 
+press:
+- name: "Marginal Revolution"
+  url: "https://marginalrevolution.com/marginalrevolution/2023/01/monday-assorted-links-387.html"
+- name: "European Central Bank"
+  url: "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251124_1~c239fb4a7f.en.html"
+- name: "American Enterprise Institute"
+  url: "https://www.aei.org/commentary/unhappy-50th-anniversary-of-the-great-stagnation-but-theres-hope/"
+
+conferences: "Wharton AI and the Future of Work (2024), SOCAE (2023)"
+
 
 # Summary. An optional shortened abstract.
 #summary: We assess the impact of deep learning on the economy by estimating the idea production function for AI in two computer vision tasks that are considered key test-beds for deep learning and show that AI idea production is notably more capital-intensive than traditional R&D and suggests that AI-augmented R&D has the potential to speed up technological change and economic growth.

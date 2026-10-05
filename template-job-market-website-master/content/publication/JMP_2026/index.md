@@ -19,6 +19,8 @@ publication_short: ""
 
 abstract: I study the effects of technology adoption on firm productivity in the French cloud computing services market, a setting with falling adoption costs yet a high concentration of suppliers. I study how IT-using firms make technology bundling choices when faced with these adoption frictions, and analyze the effects of competition policies on downstream adoption and welfare. I find that adopting cloud computing increases firm productivity from 0.2\% to 1.6\%, with heterogeneous effects across sectors and a larger impact for firms that purchase services from multiple cloud providers. To estimate the effects of competition policies to increase supplier switching, I estimate a model of industry dynamics, in which downstream firms produce output and make computing input bundle choices and suppliers compete to set prices. I find substantial entry and switching costs, of which egress fees are at most 8\%. There is substantial complementarity between Microsoft products. A simulated merger between Microsoft's and Google's cloud platforms lowers average annual welfare by 0.28\%, driven by an average price increase of 26\%. By comparison, simulating the effects of a ban on data egress fees from the EU Data Act and an increase in software interoperability, I find these policies produce annual welfare gains of 0.06\% and 0.16\% (€183-491 million), respectively.
 
+conferences: "IIOC Rising Stars (2026), BSE Summer Forum (2026), INFORMS (2026, planned), SEA (2026, planned)"
+
 
 # Summary. An optional shortened abstract.
 # summary: ''

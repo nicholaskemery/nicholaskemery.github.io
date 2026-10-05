@@ -70,6 +70,10 @@
   {{ end }}
   {{ end }}
 
+  {{ if eq $item.Type "publication" }}
+  {{ partial "pub_extras.html" $item }}
+  {{ end }}
+
   {{ if $show_buttons }}
   <div class="btn-links">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
