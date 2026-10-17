@@ -30,7 +30,7 @@ press:
 - name: "American Enterprise Institute"
   url: "https://www.aei.org/commentary/unhappy-50th-anniversary-of-the-great-stagnation-but-theres-hope/"
 
-conferences: "Wharton AI and the Future of Work (2024), SOCAE (2023)"
+presentations: "Wharton AI and the Future of Work (2024), SOCAE (2023)"
 
 
 # Summary. An optional shortened abstract.

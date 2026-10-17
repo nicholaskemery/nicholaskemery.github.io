@@ -1,0 +1,35 @@
+{{/* Body of the Teaching section. Reads from content/home/teaching.md:
+     teaching_statement  - optional PDF path/URL; shows "Click here for my teaching statement."
+     [[classes]]         - name, details, and optional evaluations.
+     evaluations         - "" (no button), one path/URL (button "Evaluations"),
+                           or a list of paths/URLs (buttons "Evaluations I", "Evaluations II", ...). */}}
+{{ $st := . }}
+{{ $roman := slice "I" "II" "III" "IV" "V" "VI" "VII" "VIII" "IX" "X" }}
+{{ with $st.Params.teaching_statement }}
+{{ $href := . }}{{ if not (urls.Parse $href).Scheme }}{{ $href = $href | relLangURL }}{{ end }}
+<p>Click here for my <a href="{{ $href | safeURL }}" target="_blank" rel="noopener">teaching statement</a>.</p>
+{{ end }}
+{{ range $st.Params.classes }}
+{{/* Normalize evaluations to a list of non-empty links. */}}
+{{ $evals := slice }}
+{{ with .evaluations }}
+  {{ if reflect.IsSlice . }}
+    {{ range . }}{{ if . }}{{ $evals = $evals | append . }}{{ end }}{{ end }}
+  {{ else }}
+    {{ $evals = slice . }}
+  {{ end }}
+{{ end }}
+{{ $n := len $evals }}
+<h3>{{ .name }}</h3>
+<p>{{ .details }}
+  {{ range $i, $e := $evals }}
+  {{ $href := $e }}{{ if not (urls.Parse $href).Scheme }}{{ $href = $href | relLangURL }}{{ end }}
+  {{ $label := "Evaluations" }}
+  {{ if gt $n 1 }}
+    {{ if lt $i (len $roman) }}{{ $label = printf "Evaluations %s" (index $roman $i) }}{{ else }}{{ $label = printf "Evaluations %d" (add $i 1) }}{{ end }}
+  {{ end }}
+  <a class="btn btn-outline-primary btn-sm ml-2" href="{{ $href | safeURL }}" target="_blank" rel="noopener">{{ $label }}</a>
+  {{ end }}
+</p>
+{{ end }}
+{{ $st.Content }}

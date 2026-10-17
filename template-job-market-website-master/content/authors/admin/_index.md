@@ -57,6 +57,11 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 
+# PDFs linked as buttons under your bio (put the files in static/files/).
+# Leave a value "" to hide that button.
+cv: "files/cv.pdf"
+research_statement: ""
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "niemery@ucla.edu"
 

@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Research statement"
+  url = "files/EmeryXuResearchStatement.pdf"
+  weight = 15
+
+[[main]]
     name = "Publications"
     url = "#publications"
     weight = 30
