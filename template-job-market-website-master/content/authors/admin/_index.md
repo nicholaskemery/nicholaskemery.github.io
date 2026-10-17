@@ -72,4 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am a sixth-year Ph.D. candidate in economics at UCLA. I do research in empirical industrial organization, focusing on digital economics and the economics of AI, with additional interests in political economy and economic theory. **I am on the 2026-2027 academic job market.**
+I am a sixth-year Ph.D. candidate in economics at UCLA. I do research in empirical industrial organization, focusing on digital economics and the economics of AI, with additional interests in political economy and economic theory.
+
+**I am on the 2026-2027 academic job market.**
+
+I am affiliated with [MIT FutureTech](https://futuretech.mit.edu/team). I was previously a Global Priorities Fellow at the Forethought Foundation for Global Priorities Research (2022-2023) and a Summer Research Fellow at the Stanford Existential Risks Initiative (2021). My research has been supported by Coefficient Giving and the Institute for Humane Studies. I received my BA in economics and Russian from the University of Pennsylvania in 2018.

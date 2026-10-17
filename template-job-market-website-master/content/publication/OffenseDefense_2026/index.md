@@ -18,7 +18,7 @@ publishDate: "2017-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise and resubmit at _International Studies Quarterly_."
+publication: "_Under review_"
 publication_short: ""
 
 abstract: A large literature has argued that offensive advantage makes states worse off because it can induce a security dilemma, preemption, costly conflict, and arms races. We argue instead that state welfare is U-shaped under offensive advantage. We assess the offense-defense balance by considering a model where two states choose arms levels and decide whether to attack. High defensive advantage is first-best because the arms burdens required to deter attacks and maintain peace are low. High offensive advantage is comparatively worse because war is likely, but war tends to be smaller in scale, quicker, and less costly. Intermediate offensive advantage is worst because high arms burdens are required to deter attacks while wars, when they occur, are larger, longer, and more destructive. We discuss historical examples of this phenomenon, including the Warring States periods in China and Japan, the Imjin War, the Federalist Papers, Napoleonic Europe, and the World Wars.

@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: "Draft coming soon!"
 publication_short: ""
 
-abstract: What is the impact of artificial intelligence adoption on firm productivity and labor automation? Using data from Spanish manufacturing firms during 2018-2024, I find that adoption of deep learning increases labor-augmenting productivity by 15.5\%-17.2\%, depending on sector, with no effects on Hicks-neutral productivity. This is roughly 3-5 times that of robots, which increase labor productivity by 2.8\%-6.6\%. Preliminary results suggest that AI is skill-biased, unlike robotics.
+abstract: What is the impact of artificial intelligence adoption on firm productivity and labor automation? Using data from Spanish manufacturing firms during 2018-2024, I find that adoption of deep learning increases labor-augmenting productivity by 15.5\%-17.2\%, depending on sector, with no effects on Hicks-neutral productivity. This is roughly 3-5 times that of robots, which increase labor productivity by 2.8\%-6.6\%.
 
 # Summary. An optional shortened abstract.
 #summary: 

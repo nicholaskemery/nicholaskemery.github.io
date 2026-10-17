@@ -43,5 +43,9 @@ teaching_statement = "files/EmeryXuTeachingStatement.pdf"
 [[classes]]
   name = "Econ 104: Data Science for Economists (Undergraduate)"
   details = "TA: F2023, F2024, W2025, Summer 2026"
-  evaluations = ["files/Individual Instructor Report - 261 ECON 0104L LAB 001C_EMERY-XU N..pdf", "files/Individual Instructor Report for Winter 2025 - 25W ECON 104L LAB 1B - DATA SCI ECON LAB N. EMERY-XU.pd", "files/Individual Instructor Report for Winter 2025 - 25W ECON 104L LAB 1D - DATA SCI ECON LAB N. EMERY-XU.pdf"]
+  evaluations = ["files/Individual Instructor Report - 261 ECON 0104L LAB 001C_EMERY-XU N..pdf",
+  "files/Individual Instructor Report for Winter 2025 - 25W ECON 104L LAB 1B - DATA SCI ECON LAB N. EMERY-XU.pd",
+  "files/Individual Instructor Report for Winter 2025 - 25W ECON 104L LAB 1D - DATA SCI ECON LAB N. EMERY-XU.pdf",
+  "files/ECON_TA_EMERY-XU,N._23F_ECON_104L_LAB_1B.pdf",
+  "files/ECON_TA_EMERY-XU,N._605350740_24F_ECON_104L_LAB_1K.pdf"]
 +++
