@@ -60,7 +60,7 @@ social:
 # PDFs linked as buttons under your bio (put the files in static/files/).
 # Leave a value "" to hide that button.
 # cv: "files/cv.pdf"
-research_statement: "files/EmeryXuResearchStatement.pdf"
+research_statement: files/EmeryXuResearchStatement.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "niemery@ucla.edu"
@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a sixth-year Ph.D. candidate in economics at UCLA. I do research in empirical industrial organization, focusing on digital economics and the economics of AI, with additional interests in political economy and economic theory.
+I am a sixth-year Ph.D. candidate in economics at UCLA. I do research in empirical industrial organization, focusing on digital economics and the economics of AI, with additional interests in political economy.
 
 **I am on the 2026-2027 academic job market.**
 
