@@ -59,8 +59,8 @@ social:
 
 # PDFs linked as buttons under your bio (put the files in static/files/).
 # Leave a value "" to hide that button.
-cv: "files/cv.pdf"
-research_statement: ""
+# cv: "files/cv.pdf"
+research_statement: "files/EmeryXuResearchStatement.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "niemery@ucla.edu"
